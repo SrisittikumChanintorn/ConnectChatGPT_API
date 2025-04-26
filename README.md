@@ -8,8 +8,9 @@ Talk to ChatGPT without using a web browser! Just type your questions or message
 
 The program can:
 - Connect to OpenAI's GPT model
-- Remember your conversation history
 - Follow custom instructions you set
+- Remember your conversation history
+
 
 ## Getting started
 
