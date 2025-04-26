@@ -2,11 +2,11 @@
 
 This simple application lets you chat with OpenAI's ChatGPT directly from your computer terminal.
 
-## What it does
+## What is this program ?
 
 Talk to ChatGPT without using a web browser! Just type your questions or messages, and the AI will respond right in your terminal window.
 
-The app can:
+The program can:
 - Connect to OpenAI's GPT model
 - Remember your conversation history
 - Follow custom instructions you set
@@ -14,9 +14,12 @@ The app can:
 ## Getting started
 
 1. Make sure you have Python installed
-2. Install the required package: `pip install openai==1.68.2`
-3. Add your OpenAI API key in the `main.py` file where it says "YOUR_API_KEY"
-4. Run the program: `python main.py`
+2. Install the required package: `pip install openai==1.68.2` by folliwong this step
+   ```bash
+      pip install -r requirements.txt
+   ```
+4. Add your OpenAI API key in the `main.py` file where it says "YOUR_API_KEY"
+5. Run the program in CMD : `python main.py`
 
 ## How to use
 
