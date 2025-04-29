@@ -14,14 +14,18 @@ The program can:
 
 ## Getting started
 
-1. Make sure you have Python installed
+1. Make sure you have Python Virtual Environment & Select Python Interpreter
+
 2. Install the required package: `pip install openai==1.68.2` by folliwong this step
 
    ```bash
       pip install -r requirements.txt
    ```
    
-3. Add your OpenAI API key in the `main.py` file where it says "YOUR_API_KEY"
+3. Add your OpenAI API key in the `main.py` file
+```bash
+api_key = 'YOUR_API_KEY'  # Replace with your actual OpenAI API key
+```
 4. Run the program in CMD : `python main.py`
 
 ## How to use
