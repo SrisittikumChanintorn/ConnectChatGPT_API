@@ -14,7 +14,7 @@ The program can:
 
 ## Getting started
 
-1. Make sure you have Python Virtual Environment & Select Python Interpreter
+1. Make sure you have a Python virtual environment and a ready-to-use Python interpreter selected.
 
 2. Install the required package: `pip install openai==1.68.2` by folliwong this step
 
